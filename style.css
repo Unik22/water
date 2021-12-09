@@ -1,0 +1,22 @@
+body{
+    background-color: chocolate;
+}
+.first {
+    color: red;
+    background-color: rgb(61, 207, 233);
+    text-align: right;
+    font-style: italic;
+}
+.second {
+    color: red;
+    background-color: rgb(61, 207, 233);
+    text-align: right;
+    font-style: italic;
+}
+
+p{
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+    text-indent: 1.5em;
+}
+
